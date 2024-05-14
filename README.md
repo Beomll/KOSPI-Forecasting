@@ -1,11 +1,10 @@
 # The 1st Applied Mathematics Competition in The Catholic University of Korea
 
 ## Submission Deadline: 
-계획서: 2024.05.24(금) 18:00(GMT+9)
-보고서: 2024.05.31(금) 18:00 (GMT+9)
+계획서: 2024.05.24(금) 18:00(GMT+9)<br/>
+보고서: 2024.05.31(금) 18:00 (GMT+9)<br/>
 
 ## Information
-
 제 1회 산업 수학 경진대회<br/>
 1. 대    상: 제1전공이 수학과인 재학생<br/>
 2. 일    정:<br/>
